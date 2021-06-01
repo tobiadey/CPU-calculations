@@ -1,0 +1,27 @@
+================== Solution: Sequence Of Events ==============================
+time 0: Process 1 arrives in the ready queue
+time 0: Process 1 has just been assigned to the CPU
+time 1.66: Process 2 arrives in the ready queue
+time 3: Process 1 has rejoined the ready queue
+time 3: Process 2 has just been assigned to the CPU
+time 6: Process 2 has just been assigned to the CPU
+time 6.71: Process 3 arrives in the ready queue
+time 9: Process 2 has rejoined the ready queue
+time 9: Process 1 has just been assigned to the CPU
+time 10.915: Process 4 arrives in the ready queue
+time 11.797: Process 5 arrives in the ready queue
+time 12: Process 1 has rejoined the ready queue
+time 12: Process 3 has just been assigned to the CPU
+time 15: Process 3 has just been assigned to the CPU
+time 17: Process 3 has just completed executing
+time 17: Process 2 has just been assigned to the CPU
+time 19: Process 2 has just completed executing
+time 19: Process 4 has just been assigned to the CPU
+time 22: Process 4 has just been assigned to the CPU
+time 25: Process 4 has just been assigned to the CPU
+time 27: Process 4 has just completed executing
+time 27: Process 5 has just been assigned to the CPU
+time 30: Process 5 has just completed executing
+time 30: Process 1 has just been assigned to the CPU
+time 32: Process 1 has just completed executing
+==============================================================================

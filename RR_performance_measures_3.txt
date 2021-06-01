@@ -1,0 +1,19 @@
+Process 1 has turnaround time  32
+Process 1 has response time  0
+Process 1 has wait time  24
+
+Process 2 has turnaround time  17.34
+Process 2 has response time  1.34
+Process 2 has wait time  9.34
+
+Process 3 has turnaround time  10.29
+Process 3 has response time  5.29
+Process 3 has wait time  5.29
+
+Process 4 has turnaround time  16.085
+Process 4 has response time  8.085
+Process 4 has wait time  8.085
+
+Process 5 has turnaround time  18.203
+Process 5 has response time  15.203
+Process 5 has wait time 15.203

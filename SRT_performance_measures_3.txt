@@ -1,0 +1,25 @@
+================== Solution: Performance Measures ==============================
+Process 2 has turnaround time  3
+Process 2 has response time  0
+Process 2 has wait time  0
+
+Process 1 has turnaround time  5.738
+Process 1 has response time  1.738
+Process 1 has wait time  1.738
+
+Process 3 has turnaround time  20.636
+Process 3 has response time  11.636
+Process 3 has wait time  11.636
+
+Process 6 has turnaround time  10.588
+Process 6 has response time  5.588
+Process 6 has wait time  1.588
+
+Process 5 has turnaround time  2
+Process 5 has response time  0
+Process 5 has wait time  0
+
+Process 4 has turnaround time  2.525
+Process 4 has response time  0.525
+Process 4 has wait time  0.525
+==============================================================================
